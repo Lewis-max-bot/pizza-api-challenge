@@ -31,3 +31,8 @@ A RESTful Flask API for managing pizzas, restaurants, and their associations. Th
 GET/Pizzas => returns a list of all pizzas 
 GET/restaurants => returns a list of all restaurants
 GET/restaurant_pizza => associates a pizza with a specific pizza 
+
+
+<!-- TESTING USING POSTMAN -->
+
+=> Use postman to test the post/restaurant_pizzas route
